@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LadyAliela
+- 👋 Hi, I’m Leila
 - 👀 I’m interested in data science and artificial intelligence
 - 🌱 I’m currently learning everything from scratch as I come from a finance background
 - 💞️ I’m looking to collaborate on open-source projects related to predictive modelling and data visualization
